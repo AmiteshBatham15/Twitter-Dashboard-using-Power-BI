@@ -25,8 +25,21 @@ This project is a dynamic Twitter Analytics Dashboard built using Power BI. It w
   
 9. How does engagement rate differ between tweets with app opens and those without, under strict filter conditions?
 
+## Dashboard Interaction 
+<a href="https://github.com/AmiteshBatham15/Twitter-Dashboard-using-Power-BI/blob/main/Screenshot%202025-06-11%20211402.png">Dashboard(Page 1)</a>
+<a href="">Dashboard(Page 2)</a>
+## Process
+Loaded and cleaned Twitter data in Power BI for analysis.
 
+Understood and translated 9 complex tasks into actionable KPIs.
 
+Created DAX measures and columns to apply filters like time, date, word/character count, and content.
+
+Built multiple chart types (pie, bar, line, scatter) tailored to each task.
+
+Applied conditional visibility so charts appear only during specific IST time ranges.
+
+Validated each chart with proper filters and ensured accurate insights.
 
 
 
