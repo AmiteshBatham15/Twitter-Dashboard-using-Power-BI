@@ -27,19 +27,19 @@ This project is a dynamic Twitter Analytics Dashboard built using Power BI. It w
 
 ## Dashboard Interaction 
 <a href="https://github.com/AmiteshBatham15/Twitter-Dashboard-using-Power-BI/blob/main/Screenshot%202025-06-11%20211402.png">Dashboard(Page 1)</a>
-<a href="">Dashboard(Page 2)</a>
+<a href="https://github.com/AmiteshBatham15/Twitter-Dashboard-using-Power-BI/blob/main/Screenshot%202025-06-11%20211416.png">Dashboard(Page 2)</a>
+
 ## Process
-Loaded and cleaned Twitter data in Power BI for analysis.
+- Loaded and cleaned Twitter data in Power BI for analysis.
+- Understood and translated 9 complex tasks into actionable KPIs.
+- Created DAX measures and columns to apply filters like time, date, word/character count, and content.
+- Built multiple chart types (pie, bar, line, scatter) tailored to each task.
+- Applied conditional visibility so charts appear only during specific IST time ranges.
+- Validated each chart with proper filters and ensured accurate insights.
 
-Understood and translated 9 complex tasks into actionable KPIs.
-
-Created DAX measures and columns to apply filters like time, date, word/character count, and content.
-
-Built multiple chart types (pie, bar, line, scatter) tailored to each task.
-
-Applied conditional visibility so charts appear only during specific IST time ranges.
-
-Validated each chart with proper filters and ensured accurate insights.
+## Dashboard
+![Screenshot 2025-06-11 211402](https://github.com/user-attachments/assets/df0c0c7b-548d-418b-b59c-518c36b37bd0)
+![Screenshot 2025-06-11 211416](https://github.com/user-attachments/assets/8da107d6-c5f6-4375-a6c5-2c7f6790651b)
 
 
 
